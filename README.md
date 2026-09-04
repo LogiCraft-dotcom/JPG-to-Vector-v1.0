@@ -12,7 +12,7 @@ A lightweight desktop application that instantly converts JPG, PNG, and SVG file
 
 ### 🚀 Download and Install
 
-**[⬇️ Download the latest .exe version here](L[INK_TO_YOUR_RELEASE_PAGE](https://github.com/LogiCraft-dotcom/JPG-to-Vector-v1.0/releases/download/JPGtoVector/BatchImageVectorConverter.zip))**
+**[⬇️ Download the latest .exe version here](https://github.com/LogiCraft-dotcom/JPG-to-Vector-v1.0/releases/download/JPGtoVector/BatchImageVectorConverter.zip))**
 
 1. Download the `.exe` file from the link above.
 2. Double-click the file to launch the converter.
